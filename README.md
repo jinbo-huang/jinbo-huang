@@ -4,9 +4,9 @@ I'm Michael. I am a **machine learning engineer** with 1+ years of experience an
 
 ### My skills
 - :computer: Programming: C++, Python
-- :wrench: Tools: AWS (SageMaker, S3), SQL (MariaDB), Git, Linux, MS Visual Studio, PyCharm
-- :books: Frameworks/Libraries: Tensorflow, Scikit-learn, NumPy, Pandas, Matplotlib, Jupyter Lab
-- :speech_balloon: Languages: English (fluent), Mandarin (native)
+- :wrench: Tools: **AWS (SageMaker, S3)**, SQL (MariaDB), Git, Linux, MS Visual Studio, PyCharm
+- :books: Frameworks/Libraries: **Tensorflow**, Scikit-learn, NumPy, Pandas, Matplotlib, Jupyter Lab
+- :speech_balloon: Languages: **English (fluent)**, Mandarin (native)
 
 ### Let's get in touch
 - :eyes: I’m actively looking for machine learning engineer opportunities and I'm willing to relocate. Please feel to contact me if you think there's a fit.
